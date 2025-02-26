@@ -1,13 +1,18 @@
 🏎️ Car Racing Game in C#
 
 
-This is a simple 2D Car Racing Game built using C# and Windows Forms (WinForms). The game challenges players to navigate their car while avoiding obstacles and collecting coins. The game speeds up as the player progresses, and it ends when the player collides with an enemy vehicle.
+This is a simple 2D Car Racing Game built using C# and Windows Forms (WinForms). The game challenges players to navigate their car while avoiding obstacles and collecting coins. The game speeds up as the player progresses, and it ends when the player collides with an 
+
+
+enemy vehicle.
 
 
 🚀 Features
 
 
 🎮 Gameplay
+
+
 Player-controlled car: Move left and right using the arrow keys to avoid enemy cars.
 
 
@@ -46,15 +51,21 @@ Score tracking: Displays collected coins as the player progresses.
 
 Game over screen: The game stops and displays a "Game Over" message when the player crashes.
 
+
 🛠️ Technologies Used
+
 
 C# – Main programming language
 
+
 Windows Forms (WinForms) – UI framework
+
 
 Timers – Used for game loops and animations
 
+
 Random class – Generates random enemy and coin positions
+
 
 📌 How to Run
 
